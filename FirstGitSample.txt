@@ -9,6 +9,7 @@ Git Commands
 Git Config Command
 Git init Command
 Git add Command
+Git commit Command
 </p>
 </body>
 </html>
